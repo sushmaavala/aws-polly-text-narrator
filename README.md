@@ -11,8 +11,8 @@ This is a simple project where we convert a piece of text into speech using **Am
 ## Files included
 
 - `lambda_function.py`: Main code to convert text to speech and upload to S3
-- `architecture-diagram.png`: (Optional) Architecture diagram of the project
-- `cleanup.md`: Steps to clean up all AWS resources after project completion
+- `architecture-diagram.png`: Architecture diagram of the project
+
 
 ## Technologies Used
 
